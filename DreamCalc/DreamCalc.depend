@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1621647375 source:c:\users\dell\desktop\projetointegrador\dreamcalc\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+
